@@ -10,13 +10,13 @@ A high-performance, animation-rich React application showcasing the ITZ FIZZ lux
   
 ```
 ┌─────────────────┐    ┌─────────────────┐   ┌──────────────────┐
-│   Development   │    │   Production    │    │   Deployment    │
-│     Server      │    │    Build        │    │   (Netlify)     │
-│                 │    │                 │    │                 │
-│  Vite Dev       │    │  Client SPA     │    │  Static Files  │
-│  Express API    │    │  Server Code    │    │  Functions      │
-│  Hot Reload     │    │  Optimized      │    │  CDN Ready      │
-└─────────────────┘   └─────────────────┘   └──────────────────┘
+│   Development   │    │   Production    │   │   Deployment     │
+│     Server      │    │    Build        │   │   (Netlify)      │
+│                 │    │                 │   │                  │
+│  Vite Dev       │    │  Client SPA     │   │  Static Files    │
+│  Express API    │    │  Server Code    │   │  Functions       │
+│  Hot Reload     │    │  Optimized      │   │  CDN Ready       │
+└─────────────────┘   └─────────────────┘    └──────────────────┘
 ```
 
 ### Component Architecture
