@@ -7,7 +7,7 @@ A high-performance, animation-rich React application showcasing the ITZ FIZZ lux
 ##🏗️ System Architecture
 
 ### High-Level Architecture
-
+  
 ```
 ┌─────────────────┐    ┌─────────────────┐   ┌──────────────────┐
 │   Development   │    │   Production    │    │   Deployment    │
